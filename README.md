@@ -18,7 +18,7 @@ The code has only been tested with g++.
 All parameters are hardcoded. 
 Most of them are in main.cpp.
 The initial condition and the velocity field are defined in Fields.cpp.
-Parameter eta is set in Solver.cpp (normally you should not change it).
+The finite-difference parameter is set in Solver.cpp (normally you should not change it).
 
 3) Postprocess
 
