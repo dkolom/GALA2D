@@ -8,7 +8,7 @@ Adaptive gradient-augmented level set method for a two-dimensional advection equ
  git clone https://github.com/dkolom/GALA2D.git
  make
 
-The code has only been tested with gcc.
+The code has only been tested with g++.
 
 2) Execute
 
